@@ -7,7 +7,7 @@ The need for erhtmle arose while writing various Erlang web applications. Strang
 
 ## Security
 
-This library was build with security in mind. Mature well tested implementations in other programming languages where studied in the process of creating erhtmle as well as all related RFC, including:
+This library was build with security in mind. Mature well tested implementations in other programming languages where studied in the process of creating erhtmle as well as the following related RFC:
 - https://www.rfc-editor.org/rfc/rfc1866.html
 - https://www.rfc-editor.org/rfc/rfc3986.html
 
